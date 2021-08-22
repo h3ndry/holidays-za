@@ -1,0 +1,68 @@
+{
+	"01-01": {
+		"name":"New Year's Day",
+		"description": "New Year's Day, also simply called New Year or New Year's is not just a South African Holiday. South Africa is just one of the country that celebrate this day. Usualy this holiday is observed on 1 January, the first day of the year on the modern Gregorian calendar as well as the Julian calendar. Whilst most solar calendars (like the Gregorian and Julian) begin the year regularly at or near the northern winter solstice, the start of the new year in cultures that observe a lunisolar or lunar calendar (such as the Chinese New Year and the Islamic New Year) happen at less fixed points relative to the solar year",
+		"url": "https://en.wikipedia.org/wiki/New_Year%27s_Day"
+	},
+	"21-03": {
+		"name":"Human Rights Day",
+		"description": "The Bill of Rights contained in the Constitution is the cornerstone of democracy in South Africa.  The Constitution provides for the establishment of the South African Human Rights Commission (SAHRC)(link is external). The aim of the Commission is to promote respect for human rights, promote the protection, development and attainment of human rights, and to monitor and assess the observance of human rights in SA. The SAHRC was launched on 21 March 1996, 35 years after the fateful events of 21 March 1960 when demonstrators in Sharpeville were gunned down by police.  The Native Laws Amendment Act of 1952 extended Government control over the movement of Africans to urban areas and abolished the use of the Pass Book (a document which Africans were required to carry on them to 'prove' that they were allowed to enter a 'white area') in favour of a reference book which had to be carried at all times by all African",
+		"url":"https://www.gov.za/about-sa/public-holidays"
+	},
+	"*-04/05": {
+		"name":"Good Friday",
+		"description":"The dates on which Good Friday and Easter Sunday fall are determined according to the ecclesiastical moon. That varies each year but they fall at some point between late March and late April.",
+		"url":"https://www.gov.za/about-sa/public-holidays"
+	},
+	"*-04/05": {
+		"name":"Family Day",
+		"description":"Family Day is a holiday currently observed in South Africa the day after Easter Sunday each year. This holiday was established for the purpose of giving each South African family (regardless of religion and background) a special day to be with their loved ones. In the past, instead of celebrating Family Day, the country is celebrating this day as Easter Monday. Easter Monday succeeding Easter Sunday, is a celebration with religious connotation. ",
+		"url":"https://www.generalblue.com/family-day-in-south-africa"
+	},
+	"27-04": {
+		"name":"Freedom Day",
+		"description":"Freedom Day on 27 April is an annual celebration of South Africa's first non-racial democratic elections of 1994. It is significant because it marks the end of over three hundred years of colonialism, segregation and white minority rule and the establishment of a new democratic government led by Nelson Mandela and a new state subject to a new constitution.  This is a time to reflect on the strides we have made in achieving the vision of a better life for all. Undoubtedly much has changed since 1994 and there has been progress in every sphere of society, but we are aware that more must still be done.  Freedom Day 2014 is especially significant as it marks 20 years since our first free election. President Zuma will address the nation at the Freedom Day celebrations on Sunday, 27 April 2014 at Union Buildings Grounds in Pretoria.  Government calls on all South Africans to join in celebrating national Freedom Day and to extend celebrations of our democracy across the country in reflecting on the achievements we have made as a nation.  Freedom Day is also a time to reflect on what makes us proud to be South Africans. These include our our national symbols: flag_m.jpg",
+		"url":"https://www.gov.za/freedom-day-2014"
+	},
+	"01-05": {
+		"name":"",
+		"description":"",
+		"url":""
+	},
+	"16-06": {
+		"name":"",
+		"description":"",
+		"url":""
+	},
+	"09-08": {
+		"name":"",
+		"description":"",
+		"url":""
+	},
+	"24-09": {
+		"name":"",
+		"description":"",
+		"url":""
+	},
+	"24-09": {
+		"name":"",
+		"description":"",
+		"url":""
+	},
+	"16-12": {
+		"name":"",
+		"description":"",
+		"url":""
+	},
+	"25-12": {
+		"name":"",
+		"description":"",
+		"url":""
+	},
+	"26-12": {
+		"name":"",
+		"description":"",
+		"url":""
+	}
+
+}
