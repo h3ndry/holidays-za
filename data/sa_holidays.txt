@@ -6,206 +6,204 @@ on a Sunday, the Monday following on it shall be a public holiday.
 
 
 1 January: New Year's Day
-	New Year's Day, also simply called New Year or New Year's is observed
-	on 1 January, the first day of the year on the modern Gregorian
-	calendar as well as the Julian calendar. Whilst most solar calendars
-	(like the Gregorian and Julian) begin the year regularly at or near the
-	northern winter solstice, the start of the new year in cultures that
-	observe a lunisolar or lunar calendar (such as the Chinese New Year and
-	the Islamic New Year) happen at less fixed points relative to the solar
-	year. 
+description:	New Year's Day, also simply called New Year or New Year's is
+		not just a South African Holiday. South Africa 
+		is just one of the country that celebrate this day. Usualy this holiday is observed
+		on 1 January, the first day of the year on the modern Gregorian
+		calendar as well as the Julian calendar. Whilst most solar calendars
+		(like the Gregorian and Julian) begin the year regularly at or near the
+		northern winter solstice, the start of the new year in cultures that
+		observe a lunisolar or lunar calendar (such as the Chinese New
+		Year and the Islamic New Year) happen at less fixed points
+		relative to the solar year. 
 url: https://en.wikipedia.org/wiki/New_Year%27s_Day
 
+
 21 March: Human Rights Day
-	The Bill of Rights contained in the Constitution is the cornerstone of
-	democracy in South Africa.  The Constitution provides for the
-	establishment of the South African Human Rights Commission (SAHRC)(link
-	is external). The aim of the Commission is to promote respect for human
-	rights, promote the protection, development and attainment of human
-	rights, and to monitor and assess the observance of human rights in SA.
-	The SAHRC was launched on 21 March 1996, 35 years after the fateful
-	events of 21 March 1960 when demonstrators in Sharpeville were gunned
-	down by police.  The Native Laws Amendment Act of 1952 extended
-	Government control over the movement of Africans to urban areas and
-	abolished the use of the Pass Book (a document which Africans were
-	required to carry on them to 'prove' that they were allowed to enter a
-	'white area') in favour of a reference book which had to be carried at
-	all times by all Africans.
+description:	The Bill of Rights contained in the Constitution is the cornerstone of
+		democracy in South Africa.  The Constitution provides for the
+		establishment of the South African Human Rights Commission (SAHRC)(link
+		is external). The aim of the Commission is to promote respect for human
+		rights, promote the protection, development and attainment of human
+		rights, and to monitor and assess the observance of human rights in SA.
+		The SAHRC was launched on 21 March 1996, 35 years after the fateful
+		events of 21 March 1960 when demonstrators in Sharpeville were gunned
+		down by police.  The Native Laws Amendment Act of 1952 extended
+		Government control over the movement of Africans to urban areas and
+		abolished the use of the Pass Book (a document which Africans were
+		required to carry on them to 'prove' that they were allowed to enter a
+		'white area') in favour of a reference book which had to be carried at
+		all times by all Africans.
 url: https://www.gov.za/about-sa/public-holidays
 
 * April/May: Good Friday
-	The dates on which Good Friday and Easter Sunday fall are determined
-	according to the ecclesiastical moon. That varies each year but they fall at
-	some point between late March and late April.
+description:	The dates on which Good Friday and Easter Sunday fall are determined
+		according to the ecclesiastical moon. That varies each year but they fall at
+		some point between late March and late April.
 url: https://www.gov.za/about-sa/public-holidays
 
 * April/May: Family Day
-	Family Day is a holiday currently observed in South Africa the day
-	after Easter Sunday each year. This holiday was established for the
-	purpose of giving each South African family (regardless of religion and
-	background) a special day to be with their loved ones. In the past,
-	instead of celebrating Family Day, the country is celebrating this day
-	as Easter Monday. Easter Monday succeeding Easter Sunday, is a
-	celebration with religious connotation. 
+description:    Family Day is a holiday currently observed in South Africa the day
+		after Easter Sunday each year. This holiday was established for the
+		purpose of giving each South African family (regardless of religion and
+		background) a special day to be with their loved ones. In the past,
+		instead of celebrating Family Day, the country is celebrating this day
+		as Easter Monday. Easter Monday succeeding Easter Sunday, is a
+		celebration with religious connotation. 
 url: https://www.generalblue.com/family-day-in-south-africa
 
 27 April: Freedom Day
-	Freedom Day on 27 April is an annual celebration of South Africa's
-	first non-racial democratic elections of 1994. It is significant
-	because it marks the end of over three hundred years of colonialism,
-	segregation and white minority rule and the establishment of a new
-	democratic government led by Nelson Mandela and a new state subject to
-	a new constitution.  This is a time to reflect on the strides we have
-	made in achieving the vision of a better life for all. Undoubtedly much
-	has changed since 1994 and there has been progress in every sphere of
-	society, but we are aware that more must still be done.  Freedom Day
-	2014 is especially significant as it marks 20 years since our first
-	free election. President Zuma will address the nation at the Freedom
-	Day celebrations on Sunday, 27 April 2014 at Union Buildings Grounds in
-	Pretoria.  Government calls on all South Africans to join in
-	celebrating national Freedom Day and to extend celebrations of our
-	democracy across the country in reflecting on the achievements we have
-	made as a nation.  Freedom Day is also a time to reflect on what makes
-	us proud to be South Africans. These include our our national symbols: flag_m.jpg
+description:    Freedom Day on 27 April is an annual celebration of South Africa's
+		first non-racial democratic elections of 1994. It is significant
+		because it marks the end of over three hundred years of colonialism,
+		segregation and white minority rule and the establishment of a new
+		democratic government led by Nelson Mandela and a new state subject to
+		a new constitution.  This is a time to reflect on the strides we have
+		made in achieving the vision of a better life for all. Undoubtedly much
+		has changed since 1994 and there has been progress in every sphere of
+		society, but we are aware that more must still be done.  Freedom Day
+		2014 is especially significant as it marks 20 years since our first
+		free election. President Zuma will address the nation at the Freedom
+		Day celebrations on Sunday, 27 April 2014 at Union Buildings Grounds in
+		Pretoria.  Government calls on all South Africans to join in
+		celebrating national Freedom Day and to extend celebrations of our
+		democracy across the country in reflecting on the achievements we have
+		made as a nation.  Freedom Day is also a time to reflect on what makes
+		us proud to be South Africans. These include our our national symbols: flag_m.jpg
 url: https://www.gov.za/freedom-day-2014
 
 1 May: International Workers' Day 
-	Originally born from the protracted struggle for workers’ rights and
-	social justice of the late 1800s, Workers’ Day has been an
-	international holiday in many countries since 1891. In South Africa, a
-	country with its own long and sordid history of labour and social
-	conflicts.  Workers’ Day has been officially recognised and observed
-	since the first democratic elections in 1994. The holiday serves both
-	as a celebration of workers’ rights and as a reminder of the critical
-	role that trade unions, the Communist Party and other labour
-	organisations played in the fight against Apartheid.  Workers’ Day in
-	South Africa holds its own cultural significance, as the public holiday
-	has come to signify not only the sacrifices made on the long road
-	toward fair employment standards but also the bitter battle against
-	Apartheid in which trade and labour unions played a key role.  Because
-	South Africa’s working classes were those most oppressed by Apartheid,
-	the struggle for better working conditions and the struggle to
-	overthrow systemic segregation became closely linked. Before the
-	elections of 1994, labour and trade groups often used Workers’ Day as a
-	symbol to rally the population against the segregation and oppression
-	of the Apartheid system, organising demonstrations and encouraging
-	widespread resistance.
+description:    Originally born from the protracted struggle for workers’ rights and
+		social justice of the late 1800s, Workers’ Day has been an
+		international holiday in many countries since 1891. In South Africa, a
+		country with its own long and sordid history of labour and social
+		conflicts.  Workers’ Day has been officially recognised and observed
+		since the first democratic elections in 1994. The holiday serves both
+		as a celebration of workers’ rights and as a reminder of the critical
+		role that trade unions, the Communist Party and other labour
+		organisations played in the fight against Apartheid.  Workers’ Day in
+		South Africa holds its own cultural significance, as the public holiday
+		has come to signify not only the sacrifices made on the long road
+		toward fair employment standards but also the bitter battle against
+		Apartheid in which trade and labour unions played a key role.  Because
+		South Africa’s working classes were those most oppressed by Apartheid,
+		the struggle for better working conditions and the struggle to
+		overthrow systemic segregation became closely linked. Before the
+		elections of 1994, labour and trade groups often used Workers’ Day as a
+		symbol to rally the population against the segregation and oppression
+		of the Apartheid system, organising demonstrations and encouraging
+		widespread resistance.
 url: https://www.gov.za/WorkersDay2021
 
 16 June: Youth Day
-	In 1975 protests started in African schools after a directive from the
-	then Bantu Education Department that Afrikaans had to be used on an
-	equal basis with English as a language of instruction in secondary
-	schools. The issue, however, was not so much the Afrikaans as the whole
-	system of Bantu education which was characterised by separate schools
-	and universities, poor facilities, overcrowded classrooms and
-	inadequately trained teachers. On 16 June 1976 more than 20 000 pupils
-	from Soweto began a protest march. In the wake of clashes with the
-	police, and the violence that ensued during the next few weeks,
-	approximately 700 people, many of them youths, were killed and property
-	destroyed.  Youth Day, previously known as Soweto Day, commemorates
-	these events.
+description:    In 1975 protests started in African schools after a directive from the
+		then Bantu Education Department that Afrikaans had to be used on an
+		equal basis with English as a language of instruction in secondary
+		schools. The issue, however, was not so much the Afrikaans as the whole
+		system of Bantu education which was characterised by separate schools
+		and universities, poor facilities, overcrowded classrooms and
+		inadequately trained teachers. On 16 June 1976 more than 20 000 pupils
+		from Soweto began a protest march. In the wake of clashes with the
+		police, and the violence that ensued during the next few weeks,
+		approximately 700 people, many of them youths, were killed and property
+		destroyed.  Youth Day, previously known as Soweto Day, commemorates
+		these events.
 url: https://www.gov.za/YouthDay2018
 
 9 August: National Women's Day
-	Women's Day marks the anniversary of the great women's march of 1956,
-	where women marched to the Union Buildings to protest against the
-	carrying of pass books.  On 9 August 1956, about 20 000 women marched
-	to the Union Buildings in Pretoria to protest against legislation aimed
-	at tightening the apartheid government's control over the movement of
-	black women in urban areas.  Women's Day 2014 was celebrated in the
-	King Zwelithini Stadium un Umlazi, eThekwini (Durban) where President
-	Jacob Zuma delivered the keynote address.
+description:    Women's Day marks the anniversary of the great women's march of 1956,
+		where women marched to the Union Buildings to protest against the
+		carrying of pass books.  On 9 August 1956, about 20 000 women marched
+		to the Union Buildings in Pretoria to protest against legislation aimed
+		at tightening the apartheid government's control over the movement of
+		black women in urban areas.  Women's Day 2014 was celebrated in the
+		King Zwelithini Stadium un Umlazi, eThekwini (Durban) where President
+		Jacob Zuma delivered the keynote address.
 url: https://www.gov.za/womens-day
 
 
 24 September: Heritage Day
-	Heritage Day on 24 September recognises and celebrates the cultural
-	wealth of our nation. South Africans celebrate the day by remembering
-	the cultural heritage of the many cultures that make up the population
-	of South Africa. Various events are staged throughout the country to
-	commemorate this day.  The Department of Arts and Culture in
-	partnership with the Eastern Cape Provincial Government will host the
-	2013 National Heritage Day celebration under the theme, Reclaiming,
-	Restoring and Celebrating Our Living Heritage. Deputy President Kgalema
-	Motlanthe will address the National Heritage Day celebrations at
-	Mdantsane, in the Buffalo Metropolitan Municipality, Eastern Cape.
-	Living heritage is the foundation of all communities and an essential
-	source of identity and continuity. Aspects of living heritage include:
-	cultural tradition, oral history, performance, ritual, popular memory,
-	skills and techniques, indigenous knowledge system and the holistic
-	approach to nature, society and social relationships. In South Africa
-	the term “intangible cultural heritage” is used interchangeably with
-	the term “living heritage”.  Living heritage plays an important role in
-	promoting cultural diversity, social cohesion, reconciliation, peace
-	and economic development. In every community there are living human
-	treasures who possess a high degree of knowledge, skills and history
-	pertaining to different aspects of diverse living heritage. It is
-	therefore important for South Africans to reclaim, restore and preserve
-	these various aspects of living heritage to accelerate the use of
-	living heritage to address challenges communities are facing today.
-	The Department of Arts and Culture developed a draft policy on the
-	South African living heritage. This policy, once adopted, will set the
-	tone for the South African Agenda and highlight the following roles:
-	safeguarding living heritage as a valuable resource for future
-	generations and
+description:   Heritage Day on 24 September recognises and celebrates the cultural
+		2013 National Heritage Day celebration under the theme, Reclaiming,
+		Restoring and Celebrating Our Living Heritage. Deputy President Kgalema
+		Motlanthe will address the National Heritage Day celebrations at
+		Mdantsane, in the Buffalo Metropolitan Municipality, Eastern Cape.
+		Living heritage is the foundation of all communities and an essential
+		source of identity and continuity. Aspects of living heritage include:
+		cultural tradition, oral history, performance, ritual, popular memory,
+		skills and techniques, indigenous knowledge system and the holistic
+		approach to nature, society and social relationships. In South Africa
+		the term “intangible cultural heritage” is used interchangeably with
+		the term “living heritage”.  Living heritage plays an important role in
+		promoting cultural diversity, social cohesion, reconciliation, peace
+		and economic development. In every community there are living human
+		treasures who possess a high degree of knowledge, skills and history
+		pertaining to different aspects of diverse living heritage. It is
+		therefore important for South Africans to reclaim, restore and preserve
+		these various aspects of living heritage to accelerate the use of
+		living heritage to address challenges communities are facing today.
+		The Department of Arts and Culture developed a draft policy on the
+		South African living heritage. This policy, once adopted, will set the
+		tone for the South African Agenda and highlight the following roles:
+		safeguarding living heritage as a valuable resource for future
+		generations and
 url: https://www.gov.za/heritage-day
 
 16 December: Day of Reconciliation
-	In apartheid South Africa 16 December was known as Day of the Vow, as
-	the Voortrekkers in preparation for the battle on 16 December against
-	the Zulus took a Vow before God that they would build a church and that
-	they and their descendants would observe the day as a day of
-	thanksgiving should they be granted victory. With the advent of
-	democracy in South Africa 16 December retained its status as a public
-	holiday, however, this time with the purpose of fostering
-	reconciliation and national unity.  During the earlier part of the 19th
-	century, many Afrikaner farmers left the eastern cape and moved inland.
-	Among them was the Voortrekkers, a group of Afrikaners protesting
-	British colonialism and seeking independent republics on what was
-	reputedly empty land. But the land was not empty and clashes between
-	these Afrikaners and indigenous peoples were inevitable.  Late in 1837
-	one of the Voortrekker leaders, Piet Retief, entered into negotiations
-	for land with Dingane, the Zulu king. In terms of the negotiations
-	Dingane promised the Voortrekkers land on condition they returned
-	cattle to him stolen by Sekonyela (the Tlokwa chief). This Retief did
-	and apparently he and Dingane signed a treaty on 6 February 1838.
-	During the ceremony Dingane had Retief and his entourage murdered - an
-	event which was witnessed by Francis Owen, a missionary who described
-	the scene in his diary.  In ensuing battles between Zulus and
-	Voortrekkers over the next few months numerous lives were lost on both
-	sides.  On 16 December 1838 about 10 000 troops under the command of
-	Dambuza (Nzobo) and Nhlela attacked the Voortrekkers, but the 470
-	Voortrekkers, with the advantage of gun powder, warded them off. Only
-	three Voortrekkers were wounded, but more than 3 000 Zulus were killed
-	during the battle.
+description:    In apartheid South Africa 16 December was known as Day of the Vow, as
+		the Voortrekkers in preparation for the battle on 16 December against
+		the Zulus took a Vow before God that they would build a church and that
+		they and their descendants would observe the day as a day of
+		thanksgiving should they be granted victory. With the advent of
+		democracy in South Africa 16 December retained its status as a public
+		holiday, however, this time with the purpose of fostering
+		reconciliation and national unity.  During the earlier part of the 19th
+		century, many Afrikaner farmers left the eastern cape and moved inland.
+		Among them was the Voortrekkers, a group of Afrikaners protesting
+		British colonialism and seeking independent republics on what was
+		reputedly empty land. But the land was not empty and clashes between
+		these Afrikaners and indigenous peoples were inevitable.  Late in 1837
+		one of the Voortrekker leaders, Piet Retief, entered into negotiations
+		for land with Dingane, the Zulu king. In terms of the negotiations
+		Dingane promised the Voortrekkers land on condition they returned
+		cattle to him stolen by Sekonyela (the Tlokwa chief). This Retief did
+		and apparently he and Dingane signed a treaty on 6 February 1838.
+		During the ceremony Dingane had Retief and his entourage murdered - an
+		event which was witnessed by Francis Owen, a missionary who described
+		the scene in his diary.  In ensuing battles between Zulus and
+		Voortrekkers over the next few months numerous lives were lost on both
+		sides.  On 16 December 1838 about 10 000 troops under the command of
+		Dambuza (Nzobo) and Nhlela attacked the Voortrekkers, but the 470
+		Voortrekkers, with the advantage of gun powder, warded them off. Only
+		three Voortrekkers were wounded, but more than 3 000 Zulus were killed
+		during the battle.
 url: https://www.gov.za/speeches/day-reconciliation-2020-10-dec-2019-1105
 
 25 December: Christmas Day
-	Christmas is an annual festival commemorating the birth of Jesus
-	Christ, observed primarily on December 25[a] as a religious and
-	cultural celebration by billions of people around the world.[2][10][11]
-	A feast central to the Christian liturgical year, it is preceded by the
-	season of Advent or the Nativity Fast and initiates the season of
-	Christmastide, which historically in the West lasts twelve days and
-	culminates on Twelfth Night.[12] Christmas Day is a public holiday in
-	many of the world's nations,[13][14][15] is celebrated religiously by a
-	majority of Christians,[16] as well as culturally by many
-	non-Christians,[1][17] and forms an integral part of the holiday season
-	organized around it.
+description:    Christmas is an annual festival commemorating the birth of Jesus
+		Christ, observed primarily on December 25[a] as a religious and
+		cultural celebration by billions of people around the world.[2][10][11]
+		A feast central to the Christian liturgical year, it is preceded by the
+		season of Advent or the Nativity Fast and initiates the season of
+		Christmastide, which historically in the West lasts twelve days and
+		culminates on Twelfth Night.[12] Christmas Day is a public holiday in
+		many of the world's nations,[13][14][15] is celebrated religiously by a
+		majority of Christians,[16] as well as culturally by many
+		non-Christians,[1][17] and forms an integral part of the holiday season
+		organized around it.
 url: https://en.wikipedia.org/wiki/Christmas
 
 26 December: Day of Goodwill
-	Better known to most as Boxing Day – The Day of Goodwill (December 26)
-	is the official South African public holiday that falls on the day
-	after Christmas each year. Renamed by the South African Government in
-	1994 to sever ties to a colonial past, the holiday was initially
-	created in honour of the time when people in the UK spent their day
-	‘boxing up’ their lovely Christmas gifts.  An extension of Christmas –
-	or for most, a day to recover from the indulgence of Christmas – the
-	Day of Goodwill is best celebrated with family and friends at the
-	beach, a braai, or simply by practising goodwill unto others and
-	sharing in the South African summer festivities.
+description:    Better known to most as Boxing Day – The Day of Goodwill (December 26)
+		is the official South African public holiday that falls on the day
+		after Christmas each year. Renamed by the South African Government in
+		1994 to sever ties to a colonial past, the holiday was initially
+		created in honour of the time when people in the UK spent their day
+		‘boxing up’ their lovely Christmas gifts.  An extension of Christmas –
+		or for most, a day to recover from the indulgence of Christmas – the
+		Day of Goodwill is best celebrated with family and friends at the
+		beach, a braai, or simply by practising goodwill unto others and
+		sharing in the South African summer festivities.
 url: https://publicholidays.co.za/day-of-goodwill/
 
 
